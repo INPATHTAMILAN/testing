@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 egfjkergjkergbjekrbg
+=======
+wjhefvrehjvfhvrhrjvfrhfvkjefvjk
+>>>>>>> new
